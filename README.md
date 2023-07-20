@@ -4,4 +4,4 @@
 
 本群详细信息与资料可见https://github.com/shzyk/AI-files.git ，也欢迎大家分享交流自己的学习资料。
 
-目前适合数学人的方向有：优化，强化学习（RL），演化学习，可解释性问题，数据挖掘（DM），图神经网络（GNN），知识图谱，AI4Sicence等，欢迎交流与补充。
+[常见问题](https://github.com/shzyk/AI-files/blob/main/%E9%97%AE%E9%A2%98%E8%A7%A3%E7%AD%94.md)汇总如下，供参考。
